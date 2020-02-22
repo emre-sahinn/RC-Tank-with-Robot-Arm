@@ -1,5 +1,5 @@
 # RC Tank with Robot Arm
-ESP32 and Arduino based remote controlled tank project with robot arm. ESP32 Camera module was used to take picture and send to the user via point to point ESP-NOW protocol. Arduino Uno was used to control the robot arm via HC-05.
+Fully 3D printed, ESP32 and Arduino based remote controlled tank project with robot arm. ESP32 Camera module was used to take picture and send to the user via point to point ESP-NOW protocol. Arduino Uno was used to control the robot arm via HC-05.
 
 ## Video
 https://youtu.be/d-cfhn1T12M
